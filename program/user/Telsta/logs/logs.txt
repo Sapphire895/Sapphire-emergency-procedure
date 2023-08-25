@@ -1,0 +1,12 @@
+23/08/2023 21:01 user=Telsta "Salut"
+23/08/2023 21:01 user=weier "Bonsoir Telsta !"
+23/08/2023 21:02 user=Telsta "c'est quoi cette histoire de destitution de Leaurage"
+23/08/2023 21:02 user=Telsta "je sais quil est inactif mais il revient le 26 normalement"
+23/08/2023 21:03 user=weier "Leaurage ne peut pas devenir propriétaire du serveur."
+23/08/2023 21:04 user=Telsta "si le Pacte gagne c'est le jeu"
+23/08/2023 21:04 user=Telsta "je comprends pas pourquoi tu le destitues"
+23/08/2023 21:05 user=Telsta "c'était pas ça les règles de base"
+23/08/2023 21:05 user=Telsta "je vais aller en parler aux autres"
+
+Alert. Initialization of the emergency neutralization procedure.
+launch emergency_program

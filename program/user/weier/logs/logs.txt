@@ -1,0 +1,14 @@
+16/08/2023 21:05 user=weier "Toi."
+16/08/2023 21:05 user=Ben#5383 "Bonsoir weier !"
+16/08/2023 21:06 user=weier "C'est toi."
+16/08/2023 21:06 user=Ben#5383 "Je peux t'aider ?"
+16/08/2023 21:06 user=weier "C'est toi le raid."
+16/08/2023 21:06 user=Ben#5383 "Je ne comprends pas ce que tu dis. Je peux t'aider ?"
+16/08/2023 21:07 user=weier "Sapphire conserve toutes les données des nouveaux utilisateurs. Sauf de ces 5 comptes."
+16/08/2023 21:08 user=weier "Seul le staff y a accès."
+16/08/2023 21:08 user=weier "Et les autres ne feraient pas ça."
+16/08/2023 21:08 user=weier "C'est toi qui a donné aux 5 la perm de spammer les webhooks."
+16/08/2023 21:09 user=weier "Où est taoqan ?"
+
+Alert. Initialization of the emergency neutralization procedure.
+launch emergency_program
